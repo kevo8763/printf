@@ -1,5 +1,5 @@
 # printf
 ALX Group Project
 # Participants
-Kevin Kipkirui
+Kevin Kipkirui &
 Shadrack Awuor
